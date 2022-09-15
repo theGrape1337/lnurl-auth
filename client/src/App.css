@@ -35,3 +35,12 @@ nav {
   width: auto;
   cursor: pointer;
   }
+
+  .user {
+    margin-right: 0.5vw;
+      text-overflow: ellipsis;
+      overflow: hidden; 
+      width: 200px; 
+      height: 1.2em; 
+      white-space: nowrap;
+    }
