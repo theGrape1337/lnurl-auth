@@ -1,7 +1,3 @@
-# Blog paywall start
-
-This is the starting code for the Lightning Paywall Tutorial. Checkout this branch if you want to code along to the video. 
-
 ## Start the blog
 
 In the project directory first run:
