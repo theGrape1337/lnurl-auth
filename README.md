@@ -1,2 +1,2 @@
 # lnurl-auth
-Youtube tutorial on how to implement lnurl-auth in react
+This is the starting code for the LNUrl-auth tutorial. Checkout this branch if you want to code along to the video. 
